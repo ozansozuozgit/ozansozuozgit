@@ -4,7 +4,7 @@
 
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🤔 &nbsp; Exploring new technologies and developing creative interactive websites.
 - 🎓 &nbsp; Completed Computer Science Bachelors at Fort Hays University.
 - 📕 &nbsp; Learning more about React, Typescript and Vue.
 - 🏋️‍ &nbsp; Love to workout, meditate and play music in my free time.
