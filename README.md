@@ -38,13 +38,13 @@
 
 <br/>
 
-<a href="https://github.com/ozansozuozgit">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozansozuozgit&theme=buefy&layout=compact" />
+<a href="https://github.com/ozansozuozgit" align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ozansozuozgit&theme=buefy&layout=compact"  />
 </a>
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;Connect with Me </h3>
+<h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
 <a href="https://ozansozuozgit.github.io/portfolio/"><img alt="Website" src="https://img.shields.io/badge/Website-ozansozuoz-blue?style=flat-square&logo=google-chrome"></a>
