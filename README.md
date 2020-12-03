@@ -1,4 +1,4 @@
-###  :man_technologist:  [Portfolio Site](https://ozansozuozgit.github.io/portfolio-site/)
+###  :man_technologist:  [Portfolio Site](https://ozansozuoz.netlify.app/)
 
 <h2> Hey there! I'm Ozan.</h2>
 
@@ -49,7 +49,7 @@
 <h3 align="center"> 🤝🏻 &nbsp;Connect with Me </h3>
 
 <p align="center">
-<a href="https://ozansozuozgit.github.io/portfolio-site/"><img alt="Website" src="https://img.shields.io/badge/Website-ozansozuoz-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://ozansozuoz.netlify.app/"><img alt="Website" src="https://img.shields.io/badge/Website-ozansozuoz-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.com/in/ozan-sozuoz/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Ozan%20Sozuoz%20-blue?style=flat-square&logo=linkedin"></a>
 <a href="https://www.instagram.com/ozansozuoz/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-ozansozuoz-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:ozansozuoz@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-ozansozuoz@gmail.com-blue?style=flat-square&logo=gmail"></a>
