@@ -1,4 +1,4 @@
-###  :man_technologist:  [Portfolio Site](https://ozansozuoz.netlify.app/)
+###  :man_technologist:  [My Website](https://ozansozuoz.com/)
 
 <h2> Hey there! I'm Ozan.</h2>
 
