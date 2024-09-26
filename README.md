@@ -5,7 +5,7 @@
 <h3> 👨🏻‍💻 &nbsp;About Me </h3>
 
 - 🤔 &nbsp; Exploring new technologies and developing creative interactive websites.
-- 🎓 &nbsp; Completed Computer Science Bachelors at Fort Hays University.
+- 🎓 &nbsp; Completed Computer Science Bachelors at Fort Hays University/Calu.
 - 🏋️‍ &nbsp; Love to read, workout, meditate and play music in my free time.
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
